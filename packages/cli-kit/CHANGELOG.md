@@ -1,5 +1,16 @@
 # @shopify/cli-kit
 
+## 3.20.0
+
+### Minor Changes
+
+- 96d5b175: Enable experimental presets feature for apps and themes
+- 4bd05555: Add experimental preset flag for pre-specifying command line flags
+
+### Patch Changes
+
+- 0a8ee2a3: Document how to style error messages
+
 ## 3.19.0
 
 ### Minor Changes
